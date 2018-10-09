@@ -7,7 +7,7 @@
 [Instructions](https://github.com/kikipunk/Item-Frame-Color-DataPack/wiki/Installation)
 
 ### Downloads
-Now on curseforge! [https://minecraft.curseforge.com/projects/soulshard-datapack](https://minecraft.curseforge.com/projects/soulshard-datapack)
+Now on curseforge! [https://minecraft.curseforge.com/projects/item-frame-color-datapack](https://minecraft.curseforge.com/projects/item-frame-color-datapack)
 
 ### Credit
 By Kikipunk and Daminator4113
