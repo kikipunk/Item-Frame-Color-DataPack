@@ -1,4 +1,4 @@
-![Item Frame Color](http://mapmaking.fr/datapack/image/soulshard.png)
+![Item Frame Color](http://mapmaking.fr/datapack/image/Item-Frame-Color.png)
 
 ### Wiki
 [Check out the wiki](https://github.com/kikipunk/Item-Frame-Color-DataPack/wiki)
